@@ -7,7 +7,9 @@ This research draft serves as both an educational resource and a technical found
 
 
 Research Period: August 2024
+
 Author: Jinay Shah
+
 Role: Quantum Research Intern
 
 ---
